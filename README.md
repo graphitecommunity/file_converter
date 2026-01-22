@@ -1,2 +1,2 @@
 # file_converter
-This is the backend of a file converter
+This is a file converter application
